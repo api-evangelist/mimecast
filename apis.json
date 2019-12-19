@@ -1,0 +1,70 @@
+{
+    "name": "Mimecast",
+    "description": "<p>Mimecast is an international company specializing in cloud-based email management for Microsoft Exchange and Microsoft Office 365, including security, archiving, and continuity services to protect business mail.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mimecast-logo.png",
+    "tags": [
+        "api provider",
+        "emails",
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mimecast\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mimecast",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mimecast-logo.png",
+            "humanURL": "https:\/\/www.mimecast.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mimecast-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.mimecast.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mimecast"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.mimecast.com\/developer\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@mimecast.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@mimecast.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-na@mimecast.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@mimecast.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Mimecast"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.mimecast.com"
+        }
+    ]
+}
