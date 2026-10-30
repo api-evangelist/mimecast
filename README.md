@@ -64,5 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mimecast is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.mimecast.com
+Mimecast provides cloud‑based email security, data loss prevention, and archiving solutions that protect organizations from phishing, malware, and targeted attacks. Their platform secures inbound, outbound, and internal communications, offering advanced threat protection, human risk management, and secure collaboration tools. Mimecast’s services help enterprises maintain compliance, ensure data continuity, and reduce the risk of cyber‑threats across email, web, and other digital channels.
+
+**Areas:** Email Security · Cloud · Data Loss Prevention · Threat Protection · Collaboration · Company
+
+## Mimecast on APIs.io
+
+Everything profiled for Mimecast is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mimecast/](https://apis.io/providers/mimecast/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Mimecast API](https://apis.io/apis/mimecast/mimecast-api/) — Mimecast provides email security APIs, but no machine‑readable contract was discovered.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mimecast Domain Security](https://apis.io/security/mimecast/mimecast-domain-security/)
+- [Mimecast Trust Center](https://apis.io/security/mimecast/mimecast-trust-center/)
+- [Mimecast Vulnerability Disclosure](https://apis.io/security/mimecast/mimecast-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mimecast.com)
+- [Documentation](https://developer.services.mimecast.com/)
+- [Blog](https://www.mimecast.com/blog/)
+- [Security](https://www.mimecast.com/responsible-disclosure/)
+- [Compliance](https://trust.mimecast.com/)
+- [Terms of service](https://www.mimecast.com/legal/terms-of-use/)
+- [Privacy policy](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/)
+- [GitHub](https://github.com/mimecast)
+- [Status](https://status.mimecast.com/)
+
+## API Evangelist rating
+
+**Kin Score 23.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 50.0 |
+
+**Agent readiness 3.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mimecast/](https://apis.io/providers/mimecast/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mimecast: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mimecast/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
